@@ -1,3 +1,17 @@
+# What is it?
+This repo serves as a baseline for starting a new mobile app. It is not meant to have good UI or anything like that.
+The point of the repo is to have annoying things already set up for you. This way you only focus on the actual app not waste time just setting up a project.
+This repo sets up a basic react native app using Expo with working navigation with Expo Router, authentication with Clerk, and a backend/db with Convex.
+
+# Tech Stack
+- React Native
+- Typescript
+- Expo with Expo Router
+- Uniwind for styling
+- Zustand for state management
+- Clerk for authentication
+- React Native MMKV for storage
+
 # Setup project
 
 ```
